@@ -44,6 +44,17 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+# generating 
+$ nest generate controller/module/service/middleware/etc [name]
+```
+1. 1st create module # nest g module [name]
+2. 2nd create controller # nest g controller [name]
+3. 3rd create service # nest g service [name]
+
+
+
+
+
 
 ## Test
 
